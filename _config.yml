@@ -1,0 +1,14 @@
+layout_spectrum: 0.2670619417913258
+typography_spectrum: 0.11766394809819758
+color:
+  brandStrength: 0.4927022089250386
+  lightness: 0.2518174417782575
+  saturation: 0.37434465275146067
+  rhythmicContrast: 0.4892958898562938
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: A link
